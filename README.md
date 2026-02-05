@@ -1,49 +1,41 @@
 # Offensive Security Portfolio
 
-Technical write-ups and vulnerability research. Featuring solutions for PortSwigger Academy (BSCP path), CTF challenges, and real-world findings.
+Technical write-ups and security research focused on Network Penetration Testing and Web Application Security.
 
 # About Me
 
-I am a Computer Science student and a security researcher focused on Web Security and Pentesting. This repository serves as a documented journey of my technical findings and lab solutions.
+I am a Computer Science student at the Open University of Israel and an aspiring Security Researcher. My expertise spans across:
+
+Network Security: Specialized in exploiting remote systems via network services and ports, infrastructure assessment, and system compromise.
+
+Web Security: Deep-diving into web vulnerabilities, WAF bypasses, and logic flaws.
+
+Currently, I am bridging the gap between low-level system exploitation and modern web-based attack vectors.
 
 # Certifications & Training
 
-PortSwigger Academy: Burp Suite Certified Practitioner (BSCP) Path - In Progress
+PNPT (Practical Network Penetration Tester) - TCM Security: Primary Goal / In Progress
 
-Offensive Security: Developing expertise in SQLi, XSS, and Access Control.
+PEH Course (Practical Ethical Hacking) - TCM Security (PNPT track) / In Progress
 
-# Vulnerability Write-ups
+PortSwigger Academy: Advanced Web Security (BSCP track) - Active Student
 
-PortSwigger Labs
+OverTheWire (Bandit): Completed Level 25 (Linux Fundamentals & PrivEsc)
 
-Lab Name
+HackTheBox: Completed Starting Point (Network & System Basics)
 
-Severity
+# Technical Skills
 
-Topic
+Network: Port Scanning (Nmap), Service Enumeration, Remote Exploitation.
 
-Link
+Web: Burp Suite , XSS, SQLi, Access Control.
 
-Reflected XSS with event handlers and href blocked
+OS/Systems: Linux (Advanced CLI), Bash Scripting, Windows/Active Directory fundamentals.
 
-Expert
+Development: JavaScript, Python.
 
-XSS / WAF Bypass
+# Contact & Profiles
 
-View Write-up
-
-# Tools & Technologies
-
-Proxy: Burp Suite Professional
-
-Languages: JavaScript, Python, Bash
-
-Platforms: Linux (Kali/Ubuntu), HackerOne
-
-# Contact
-
-LinkedIn: [הוסף קישור כאן]
-
-HackerOne: [הוסף קישור כאן]
+LinkedIn: https://www.linkedin.com/in/yair-hinkis-648b71383/
 
 Disclaimer: All information provided in this repository is for educational purposes only. Unauthorized access to computer systems is illegal.
