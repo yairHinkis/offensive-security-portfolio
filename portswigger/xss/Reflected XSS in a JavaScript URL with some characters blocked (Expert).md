@@ -65,6 +65,7 @@ To prevent this vulnerability, the following measures should be implemented:
 1.  **Input Validation:** Implement a strict allow-list for parameters like `postId` (e.g., only allowing numeric values).
 2.  **Output Encoding:** Use context-aware output encoding. Since the input is reflected inside a JavaScript string, it should be Unicode-encoded (e.g., `'` becomes `\u0027`).
 3.  **Content Security Policy (CSP):** Implement a strong CSP that disallows `unsafe-inline` and restricts the use of `javascript:` URIs.
+<img width="1056" height="289" alt="image" src="https://github.com/user-attachments/assets/2e59512c-4e18-44e4-b165-5366893993f2" />
 
 ---
 
