@@ -15,6 +15,10 @@ Out of a comprehensive list of HTML tags, the following five were identified as 
 3. `<image>`
 4. `<svg>`
 5. `<title>`
+<img width="1103" height="134" alt="image" src="https://github.com/user-attachments/assets/d8fe9035-b6da-41da-b2b5-32f0ce2f372f" />
+<img width="1102" height="72" alt="image" src="https://github.com/user-attachments/assets/ce492e33-43fd-4032-8527-0f61b58c2486" />
+<img width="1134" height="228" alt="image" src="https://github.com/user-attachments/assets/2a602743-82a4-4b61-8b16-39490f3c043d" />
+
 
 **Attribute and Event Analysis:**
 Further testing revealed that the WAF implemented a "deny-all" policy for:
@@ -38,6 +42,7 @@ Crucially, many WAFs overlook the fact that an `<animate>` tag can target the `h
 
 **Payload:**
 `<svg><a><animate attributeName="href" values="javascript:alert(1)" /><text x="20" y="20">Click me</text></a></svg>`
+<img width="747" height="242" alt="image" src="https://github.com/user-attachments/assets/2876d912-0176-49dc-9a93-7afad7e2baa5" />
 
 ### Technical Breakdown:
 * `<svg>`: Initializes the SVG context, which is one of the allowed tags.
