@@ -1,0 +1,1 @@
+The page you looking for is here: https://github.com/yairHinkis/offensive-security-portfolio/blob/main/portswigger/xss/Reflected%20XSS%20with%20event%20handlers%20and%20href%20attributes%20blocked%20(Expert).md
